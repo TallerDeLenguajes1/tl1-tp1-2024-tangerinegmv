@@ -1,1 +1,2 @@
 # tl1-tp1-2024-tangerinegmv
+3. g. El resultado es el mismo porque la direccion de memoria almacenada por el puntero es la direccion de memoria de la variable. En el punto 4 se obtiene un resultado distinto porque la direciion de memoria es del puntero es distinta a la de la variable.
